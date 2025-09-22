@@ -1,6 +1,6 @@
 <img width="1090" height="229" alt="Capa_jg_sorteio_amigo_secreto-removebg-preview" src="https://github.com/user-attachments/assets/b922536a-7583-44f0-91b5-118adcae848e" />
 <h1 align="center">Sorteio do Amigo Secreto </h1>
-Esse projeto foi desenvolvido em HTML , CSS e JavaScript. O Jogo permite adicionar os nomes dos participantes e realizar um sorteio aleatório, tudo isso através de uma interface de fácil navegação.
+Esse projeto foi desenvolvido em HTML , CSS e JavaScript como desafio para continuidade do programa Oracle Next Education(ONE) e Alura. O Jogo permite adicionar os nomes dos participantes e realizar um sorteio aleatório, tudo isso através de uma interface de fácil navegação.
 
 ___
 <h2>:gear:Funcionalidades </h2>
