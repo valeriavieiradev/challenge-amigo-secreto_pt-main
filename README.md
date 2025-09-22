@@ -26,4 +26,10 @@ ___
 :dart:Adicione os nomes dos participantes na caixa de texto e clique no botão **"Adicionar"**.
  
 :dart:Clique no botão "Sortear" para que o amigo secreto seja revelado.
+
+___
+<h2> Visual da page:</h2>
+<img width="1911" height="914" alt="Captura de tela 2025-09-22 101901" src="https://github.com/user-attachments/assets/cadc98f0-c007-4019-ae97-034f49194274" />
+
  
+
