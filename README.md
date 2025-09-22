@@ -26,6 +26,9 @@ ___
 :dart:Adicione os nomes dos participantes na caixa de texto e clique no botão **"Adicionar"**.
  
 :dart:Clique no botão "Sortear" para que o amigo secreto seja revelado.
+___
+<h2> Vamos jogar?</h2>
+<h3> acesse o site  https://valeriavieiradev.github.io/desafio.amigo.secreto/ </h3>
 
 ___
 <h2> Visual da page:</h2>
